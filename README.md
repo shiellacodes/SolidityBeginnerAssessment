@@ -50,10 +50,11 @@ Once the contract is deployed, you need to copy the account address, as you will
 
 ## Authors
 
-202010956@fit.edu.ph
 Shiella Marie P. Umali
+202010956@fit.edu.ph
+
 
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the MIT License License - see the LICENSE.md file for details
